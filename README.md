@@ -5,7 +5,9 @@ Tecnicatura Universitaria en Programación
 📍 Universidad Tecnológica Nacional
 
 ✨ Estudiante
+
 Nombre: González Federico
+
 Comisión: M2025-03
 
 📂 Descripción del Repositorio
