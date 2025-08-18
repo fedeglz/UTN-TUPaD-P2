@@ -7,6 +7,7 @@ Tecnicatura Universitaria en Programación
 ✨ Estudiante
 Nombre: González Federico
 Comisión: M2025-03
+
 📂 Descripción del Repositorio
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 2.
 
